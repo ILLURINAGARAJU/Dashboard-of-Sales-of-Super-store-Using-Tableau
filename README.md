@@ -1,1 +1,3 @@
-# Dashboard-of-Sales-of-Super-store-Using-Tableau
+# Sales Data Visualization Using Tableau - Superstore Project
+
+This project focuses on visualizing sales data for the Superstore dataset using **Tableau** to generate actionable insights. The analysis was performed across multiple sheets using calculated fields, dimensions, and measures to transform raw data into meaningful insights. Interactive visualizations, including line charts, bar charts, pie charts, histograms, and cards, were developed to analyze key sales metrics such as trends, regional performance, and sub-category contributions. A dynamic **dashboard** was designed to monitor sales performance across categories, regions, sub-categories, and customer segments over multiple years. This dashboard enables users to identify growth opportunities, analyze top-performing regions, and explore areas for improvement, ultimately enhancing data-driven decision-making.  
